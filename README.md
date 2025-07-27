@@ -3,6 +3,7 @@
 For this analysis, I have used a subset (n(forward) = 50, n(reverse) = 50) of <a href="https://www.ebi.ac.uk/ena/browser/view/PRJNA494620" >Project: PRJNA494620</a> which provides samples covering a 'Control' group and a group with 'Parkinson disease' with information about the associated gut microbiome. 
 I pre-processed the sample primarily using `DADA2` and `cutadapt`. For the subsequent investigation and analysis I used miscellaneous libraries, listed below.
 
+As the folders exceed GitHub's 25MB file size limit, the data can be sent upon request.
 ## 0.0 Load dependencies
 ```r
 # 0.0 Load dependencies --------
